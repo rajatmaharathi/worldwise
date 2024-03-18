@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "data",
+		"path": "../../ultimate-react-course-main/11-worldwise/starter/data"
+	},
+	{
+		"name": "worlwise",
+		"path": "."
+	}
+],
+  "settings": {}
+}
